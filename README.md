@@ -4,6 +4,8 @@ A mostly Open Source Software License for [Liberty and Prosperity](https://www.n
 
 Adapted from the [MIT License](https://opensource.org/license/mit) and inspired by [Fallthrough](https://fallthrough.transistor.fm/episodes/51).
 
+Released under the [the Jersey License (NJL)](./LICENSE.txt).
+
 ----
 
 The Jersey License (NJL)
