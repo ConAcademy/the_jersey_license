@@ -1,7 +1,7 @@
 # The Jersey License
 
-<p align="center"><img src="./Jersey_Devil_Eating_Beaver.png" alt="Jersey_Devil_Eating_Beaver.png" width="30%"><br>
-<i>Jersey Devil Eating a Beaver</i></p>
+<p align="center"><img src="./Jersey_Devil_Eating_Beaver.png" alt="Vintage 1930s-style cartoon of the Jersey Devil grinning with a beaver held in its teeth. The beaver has playful X eyes, making the scene humorous rather than violent, with colorful bat wings and rubber-hose animation style." width="30%"><br>
+<i>Jersey Devil Munching On Beaver</i></p>
 
 A mostly Open Source Software License for [Liberty and Prosperity](https://www.nj.gov/nj/faqs/topics/facts/).
 
