@@ -1,5 +1,8 @@
 # The Jersey License
 
+<p align="center"><img src="./Jersey_Devil_Eating_Beaver.png" alt="Jersey_Devil_Eating_Beaver.png" width="30%"><br>
+<i>Jersey Devil Eating a Beaver</i></p>
+
 A mostly Open Source Software License for [Liberty and Prosperity](https://www.nj.gov/nj/faqs/topics/facts/).
 
 Adapted from the [MIT License](https://opensource.org/license/mit) and inspired by [Fallthrough](https://fallthrough.transistor.fm/episodes/51).
@@ -16,6 +19,6 @@ Permission is hereby granted, free of charge — unlike our insane property taxe
 
 Go f'ing nuts like those Murray Hill geeks. Just gotta keep the copyright notice and this permission notice in all copies. Don't make us come find you.
 
-If are some trillion dollar Evil corp and wanna monetize the shit of the Software without sharing and caring, then you only get the right to go fuck yourself on your mega-yacht.  The Jersey Devil can fly.
+And yo, if you are some trillion fucking dollar Evil corp and wanna monetize the shit of the Software without sharing and caring, then you only get the right to go fuck yourself on your mega-yacht.  The Jersey Devil can fly.  The Jersey Devil can fly, bitch - you ain't hiding. 
 
 THE SOFTWARE IS PROVIDED "AS IS", LIKE THE PARKWAY DURIN' RUSH HOUR OR THAT INDUSTRIAL SMELL NEAR EXIT 13. NO WARRANTY, NO FIXES, NO WHININ' IF IT CRASHES. AUTHORS AIN'T LIABLE FOR SQUAT — NOT BUGS, NOT DATA LOSS, NOT YOUR BAD DAY. IT BREAKS? DEAL WITH IT. FUHGEDDABOUDIT.   DON'T @ ME WITH YOUR TEARS, YOU PIECE OF GARBAGE.
